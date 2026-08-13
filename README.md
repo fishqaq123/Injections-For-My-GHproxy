@@ -1,7 +1,7 @@
 
 # Injections-For-My-GHproxy
 
-这个仓库用于存放 [gh-proxy](https://github.com/hunshcn/gh-proxy) 的远程注入配置，通过 Cloudflare Workers 动态拉取并应用到 `ghproxy.cnfish.dpdns.org` 子域名上。
+这个仓库用于存放 [gh-proxy](https://github.com/hunshcn/gh-proxy) 的远程注入配置，通过 Cloudflare Workers 动态拉取（私用）。
 
 ## 📖 工作原理
 
